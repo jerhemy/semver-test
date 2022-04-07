@@ -1,0 +1,4 @@
+module.exports = {
+    repositoryUrl: 'https://github.com/jerhemy/semver-test',
+    branches: ['main'],
+}
