@@ -1,6 +1,10 @@
 {
   "name": "semver-test",
   "version": "0.0.0",
+  "repository": "https://github.com/jerhemy/semver-test",
+  "release": {
+    "branches": ["main"]
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
